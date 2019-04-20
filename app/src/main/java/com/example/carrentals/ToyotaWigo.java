@@ -23,7 +23,6 @@ import java.util.Date;
 import java.util.List;
 
 public class ToyotaWigo extends AppCompatActivity {
-    private static  final String TAG = "ToyotaWigo";
     private TextView mDisplayDate;
     private TextView mDisplayDate1;
     private DatePickerDialog.OnDateSetListener mDateSetListener;
